@@ -1,2 +1,4 @@
 # AB_testing
-This project was through the Udacity Data Anayst nanodegree during Term 1.  The aim is to conduct A/B testing on and E-commerce website comparing which webpage performed better in converting customers. This project involved wrangling data, basic statistics, and employing AB or hypothesis testing to our analysis.  Then we applied a Logistic regression model and compared conversion rates. 
+This project though the Udacity Data Analyst nanodegree term 1 aimed at executing an A/B testing scenario. The customer was an E-commerce website which requested a performance (click-through rate) comparison of two webpages. They wanted to know which webpage would perform better in converting customers. The project involved data wrangling and light feature engineering, basic statistics, employing A/B or hypothesis test and applying a basic logistic regression model. 
+
+
